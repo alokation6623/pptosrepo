@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: PPTOS Repo
+description: Find the community's PPTOS in one place.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://alokation6623.github.io/pptosrepo/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  View on Github: https://github.com/alokation6623/pptosrepo/tree/main
