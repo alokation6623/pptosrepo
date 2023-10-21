@@ -67,11 +67,7 @@ InspireOS 2 Premium Gold is the second version of the operating system, offering
 
 [Download the latest version](https://github.com/alokation6623/pptosrepo/raw/main/Ressources/OS/inspireOS/inspireos2_premiumgold_release1.pptm){: .btn .btn-green .mr-2 }
 
-<details>
-
-<summary>See more versions</summary>
-
-## Download previous versions
+#### More versions
 
 [Download Build 3](https://github.com/alokation6623/pptosrepo/raw/main/Ressources/OS/inspireOS/inspireos2_premiumgold_build3.pptx)
 
@@ -90,7 +86,6 @@ InspireOS 2 Premium Gold is the second version of the operating system, offering
 [Download Insider Preview 6 16:9](https://github.com/alokation6623/pptosrepo/raw/main/Ressources/OS/inspireOS/inspireos2_premiumgold_insiderpreview6169.pptm)
 
 [Download Lite Edition](https://github.com/alokation6623/pptosrepo/raw/main/Ressources/OS/inspireOS/inspireos2_premiumgold_lite.pptm)
-</details>
 
 ### Screenshot
 
